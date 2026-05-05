@@ -1,4 +1,4 @@
-public class Practice {
+public class Problem_One {
     public static void main(String[] args) {
         String s = "abca";
         int n = s.length();
